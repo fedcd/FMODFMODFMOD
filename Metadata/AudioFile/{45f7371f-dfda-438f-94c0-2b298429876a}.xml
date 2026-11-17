@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{45f7371f-dfda-438f-94c0-2b298429876a}">
+		<property name="assetPath">
+			<value>Weapons/Bullet Casings/weapons_bullet_casing_04.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.72428571428571431</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d53d934c-ddf3-4bd3-95a1-1398814f7dbf}</destination>
+		</relationship>
+	</object>
+</objects>
